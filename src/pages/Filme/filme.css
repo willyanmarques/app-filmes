@@ -1,0 +1,32 @@
+.filme {
+  margin: 10px;
+  max-width: 600px;
+  justify-content: center;
+  display: flex;
+}
+.filme .playerCard {
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+.filme .playerCard .btnVoltar {
+  background-color: #7159c1;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border: 0;
+  margin-top: 12px;
+  height: 30px;
+  cursor: pointer;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  outline: none;
+  border-radius: 3px;
+  text-decoration: none;
+}

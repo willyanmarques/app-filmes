@@ -1,12 +1,14 @@
 {
-  "name": "ReactJS Filmes",
-  "short_name": "ReactJS Filmes",
+  "name": "React Filmes",
+  "short_name": "React Filmes",
   "theme_color": "#7159c1",
   "background_color": "#ffffff",
-  "display": "fullscreen",
-  "orientation": "portrait",
+  "display": "standalone",
+  "orientation": "portrait-primary",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": ".",
+  "description": "App para estudo de ReactJS",
+  "lang": "pt-BR",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
